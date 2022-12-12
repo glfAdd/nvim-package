@@ -1,0 +1,2 @@
+# nvim-package
+package
